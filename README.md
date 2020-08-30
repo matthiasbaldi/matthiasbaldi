@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 📌 Switzerland
+- 💻 Webdeveloper [@LambdaIT](https://lambda-it.ch)
+- 
+
 Visit the following pages to get more information about my private work and myself:
 
 - 👦 [https://maruba.ch](https://maruba.ch)
