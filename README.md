@@ -1,4 +1,6 @@
-### Hi there 👋
+### Profile
+
+***
 
 - 📌 Switzerland
 - 💻 Webdeveloper [@LambdaIT](https://lambda-it.ch)
@@ -13,6 +15,8 @@ Visit the following pages to get more information about my private work and myse
 - [Stjorna - Product Management with Rest API](https://stjorna.secanis.ch/)
 - [Gemeindeverzeichnis der Schweiz / Swiss Communityindex](https://gemeindeverzeichnis.ch/)
 - [ng-simple-sidebar - Sidebar library for Angular](https://secanis.github.io/ng-simple-sidebar/)
+
+***
 
 ### Content
 
