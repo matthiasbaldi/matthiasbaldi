@@ -14,11 +14,13 @@ Visit the following pages to get more information about my private work and myse
 - [Gemeindeverzeichnis der Schweiz / Swiss Communityindex](https://gemeindeverzeichnis.ch/)
 - [ng-simple-sidebar - Sidebar library for Angular](https://secanis.github.io/ng-simple-sidebar/)
 
-### Blogposts
+### Content
+
+**Blogposts**
 
 - [Typescript Setup with Typescript](https://lambda-it.ch/blog/post/setup-e2e-cypress-tests-angular)
 - [Cypress - Best Practices](https://lambda-it.ch/blog/post/best-practices-with-cypress)
 
-### Talks
+**Talks**
 
 - [BärnerJS: Concept for less Maintanance Effort with E2E Tests](https://lambda-it.ch/cypress_baernerjs.pdf)
