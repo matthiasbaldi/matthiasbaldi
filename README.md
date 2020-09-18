@@ -15,4 +15,4 @@ Visit the following pages to get more information about my private work and myse
 
 ### Talks
 
-- [Concept for less Maintanance Effort with E2E Tests](https://lambda-it.ch/cypress_baernerjs.pdf)
+- [BärnerJS: Concept for less Maintanance Effort with E2E Tests](https://lambda-it.ch/cypress_baernerjs.pdf)
