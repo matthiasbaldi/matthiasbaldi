@@ -8,6 +8,12 @@ Visit the following pages to get more information about my private work and myse
 - 👦 [https://maruba.ch](https://maruba.ch)
 - 🙌 [https://secanis.ch](https://secanis.ch)
 
+**Projects**
+
+- [Stjorna - Product Management with Rest API](https://stjorna.secanis.ch/)
+- [Gemeindeverzeichnis der Schweiz / Swiss Communityindex](https://gemeindeverzeichnis.ch/)
+- [ng-simple-sidebar - Sidebar library for Angular](https://secanis.github.io/ng-simple-sidebar/)
+
 ### Blogposts
 
 - [Typescript Setup with Typescript](https://lambda-it.ch/blog/post/setup-e2e-cypress-tests-angular)
