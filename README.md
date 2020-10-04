@@ -20,6 +20,9 @@ Visit the following pages to get more information about my private work and myse
 
 ### Content
 
+**Blog**
+ - [Personal Blog](https://maruba.ch/blog)
+
 **Blogposts**
 
 - [Typescript Setup with Typescript](https://lambda-it.ch/blog/post/setup-e2e-cypress-tests-angular)
