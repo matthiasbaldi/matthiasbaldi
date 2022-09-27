@@ -79,6 +79,7 @@ Visit the following pages to get more information about my private work and myse
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Exoscale](https://img.shields.io/badge/Exoscale-%23DD0031.svg?style=for-the-badge&logo=&logoColor=white)
 
 #### Tools | OS | Other Products
 
