@@ -5,7 +5,6 @@
 ***
 
 - 📌 Switzerland
-- 💻 Webdeveloper [@LambdaIT](https://lambda-it.ch)
 - 🐳 DevOps Eng [@fidentity](https://fidentity.ch)
 - 🏓 You can find my hobby projects and libraries here: https://github.com/secanis
 
